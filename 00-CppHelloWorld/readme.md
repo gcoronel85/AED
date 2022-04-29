@@ -1,0 +1,1 @@
+Compilador Utilizado: GCC C++ (g++)
